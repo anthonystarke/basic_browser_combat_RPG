@@ -1,0 +1,26 @@
+body{
+
+}
+
+h2 {
+  /* font-size:3em; */
+}
+
+#big-wrapper {
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+
+}
+
+#player-one {
+  grid-column: auto;
+  text-align:center;
+  color:blue;
+}
+
+
+#monster {
+  grid-column: auto;
+  text-align:center;
+  color:blue;
+}
