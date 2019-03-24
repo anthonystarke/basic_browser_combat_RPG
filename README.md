@@ -1,4 +1,4 @@
-# Clean Build - to be used for new projects in JavaScript using Mongod
+# Basic RPG combat game, player VS random MOBS.. very much under construction, very little so far :)
 
 ## Getting Started
 
